@@ -9,6 +9,8 @@ Road Map
 --------------
 The main idea was to use [Tornado] templates, since it is like the Django one, the trick it to use that extension, now, the second step, is trying to add [the code folding] support.
 
+![Screenshot][1]
+
 
 
 
@@ -18,3 +20,4 @@ The main idea was to use [Tornado] templates, since it is like the Django one, t
 [already exists ;) ]: http://codemirror.net/mode/django/index.html
 [Tornado]: http://www.tornadoweb.org/en/stable/
 [the code folding]: https://github.com/thehogfather/brackets-code-folding
+[1]: https://lh3.googleusercontent.com/-z8yjzTOMiPs/VDmGWKGZReI/AAAAAAAAAQM/kCXTqetmUwU/s1600/Sans%2Btitre.jpg
