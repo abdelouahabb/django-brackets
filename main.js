@@ -7,5 +7,6 @@ define(function (require, exports, module) {
       name: "Django",
       mode: "django",
       fileExtensions: ["html", "htm"],
+      blockComment: ["{#", "#}"],
   });
 });
