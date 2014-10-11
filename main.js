@@ -3,9 +3,9 @@ define(function (require, exports, module) {
 
   var LanguageManager = brackets.getModule("language/LanguageManager");
 
-  LanguageManager.defineLanguage("Django", {
+  LanguageManager.defineLanguage("django", {
       name: "Django",
-      mode: "Django",
+      mode: "django",
       fileExtensions: ["html", "htm"],
   });
 });
