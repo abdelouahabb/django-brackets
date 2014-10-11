@@ -3,7 +3,7 @@
     "title": "Django syntax highlighter",
     "description": "Enables Django highlighting in Brackets.",
     "homepage": "https://github.com/abdelouahabb/django-brackets/",
-    "version": "0.1",
+    "version": "1.0",
     "author": {
         "name": "Abdelouahab",
         "email": "<abdelouahab_al@yahoo.fr>",
