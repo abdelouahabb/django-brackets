@@ -9,7 +9,7 @@ Road Map
 --------------
 The main idea was to use [Tornado] templates, since it is like the Django one, the trick it to use that extension, now, the second step, is trying to add [the code folding] support.
 
-And for better colors, you can use this theme
+And for better colors, you can use this theme (not the one in screenshot of course)
 
 https://github.com/abdelouahabb/azrem
 
