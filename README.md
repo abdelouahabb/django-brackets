@@ -1,9 +1,9 @@
 django-brackets
 ===============
 
-This is a simple extension to add syntaxe highlighter for Django templates to Brackets
+This is a simple extension to add syntax highlighter for Django templates to Brackets
 
-Thanks for [lh brackets syntax highlighter jinja2] for the help, that was so easy to make this extension after i saw his example, since the extension will just bring back what [already exists ;) ].
+Thanks for [lh brackets syntax highlighter jinja2] for the help, that was so easy to make this extension after I saw his example, since the extension will just bring back what [already exists ;) ].
 
 Road Map
 --------------
@@ -11,7 +11,7 @@ The main idea was to use [Tornado] templates, since it is like the Django one, t
 
 And for better colors, you can use the theme: (not the one in screenshot)
 
-get it here: https://github.com/abdelouahabb/azrem
+Get it here: https://github.com/abdelouahabb/azrem
 
 ![Screenshot][1]
 
